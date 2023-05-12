@@ -41,7 +41,7 @@ mysqli_free_result($result);
 
 //clode the connection 
 mysqli_close($conn);
-
+echo "added"
 
 
 ?>
